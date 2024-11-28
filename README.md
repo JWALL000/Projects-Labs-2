@@ -15,8 +15,9 @@ I opened the packet capture in Wireshark to examine the network traffic details.
 
 
 ## Step 2:
-I noted the suspicious IP addresses that were transferring data across the network.
-![Browser Forensics3](https://github.com/user-attachments/assets/19c78b31-da6e-4894-90e5-3ebe492f3886)
+I noted the suspicious IP addresses that were transferring data across the network.![Security Operations 2](https://github.com/user-attachments/assets/d1ebaf18-8dc5-4c5e-b2c4-db98be1deeb0)
+
+
 
 
 
@@ -39,7 +40,9 @@ I retrieved the ASN numbers of the two IP addresses. Using OSINT tools, I identi
 
 
 ## Step 6:
-I used Wireshark to determine the timestamp for the first TXT record query since the beginning of the capture.
+I used Wireshark to determine the timestamp for the first TXT record query since the beginning of the capture. 
+![Security Operations 4(](https://github.com/user-attachments/assets/337c73da-1680-45d6-b28b-1e979d47e211)
+
 
 
 ## Step 7:
