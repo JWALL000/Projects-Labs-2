@@ -53,5 +53,7 @@ I referred to the MITRE ATT&CK website to find the technique number for the next
 
 ## Step 8:
 I successfully completed the BTLO lab "Piggy."
+![Security Operations 7(](https://github.com/user-attachments/assets/58bbdb35-6640-4c62-a092-050ea8abc7b0)
+
 
 
